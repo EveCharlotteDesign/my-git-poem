@@ -1,3 +1,6 @@
 My Poem 
 by Edgar Priednieks
 
+When a branch is protected:
+
+You won't be able to delete or force push to the branch.
